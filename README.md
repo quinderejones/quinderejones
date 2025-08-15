@@ -17,7 +17,6 @@
   </a>
   <a href="mailto:quinderejones@gmail.com"></a>
 </p>
-
 ---
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
