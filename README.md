@@ -9,6 +9,10 @@
 
   <a href="http://lattes.cnpq.br/5584884014403833"></a>
 
+  <p>
+  <a href="http://lattes.cnpq.br/558488401440383"></a>
+</p>
+
 ## 📬 Entre em Contato
 
   </a>
