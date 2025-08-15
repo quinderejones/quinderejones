@@ -7,7 +7,7 @@
 
 ## 📬 Referências
 
-http://lattes.cnpq.br/558488401440383
+<a href="http://lattes.cnpq.br/558488401440383"></a>
 
 ## 📬 Entre em Contato
 
