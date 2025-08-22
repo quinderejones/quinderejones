@@ -8,5 +8,5 @@
 ---
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
-  Meu perfil no GitHub ainda está em construção!
+  Meu perfil no GitHub está sempre em transformação!
 </p>
